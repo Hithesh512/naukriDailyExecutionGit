@@ -1,0 +1,4 @@
+pagefactory\UpdateResumeAndLocationPage.class
+stepdefinations\Hooks.class
+testRunner\TestRun.class
+stepdefinations\UpdateResumeAndLocationSteps.class
